@@ -1,0 +1,11 @@
+firm_id	link_pos	URL
+50	1	www.paginegialle.it/mytestfirm
+53	1	www.mytestfirm.com
+62	1	www.anotherfirm.it
+66	1	www.examplefirmname.it
+92	1	www.facebook.com/firmname
+131	1	www.linkedin.com/myfirmname
+153	1	www.tripadvisor.it/hotelname
+78	1	www.fictitiousname.it
+180	1	www.myenterprise.com
+197	1	www.myofficialwebsite.it
